@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-Light.eot');
+    src: local('../fonts/Proto Mono Light'), local('../fonts/ProtoMono-Light'),
+        url('../fonts/ProtoMono-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-Light.woff2') format('woff2'),
+        url('../fonts/ProtoMono-Light.woff') format('woff'),
+        url('../fonts/ProtoMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-SemiBoldShadow.eot');
+    src: local('../fonts/Proto Mono Semi Bold Shadow'), local('../fonts/ProtoMono-SemiBoldShadow'),
+        url('../fonts/ProtoMono-SemiBoldShadow.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-SemiBoldShadow.woff2') format('woff2'),
+        url('../fonts/ProtoMono-SemiBoldShadow.woff') format('woff'),
+        url('../fonts/ProtoMono-SemiBoldShadow.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-LightShadow.eot');
+    src: local('../fonts/Proto Mono Light Shadow'), local('../fonts/ProtoMono-LightShadow'),
+        url('../fonts/ProtoMono-LightShadow.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-LightShadow.woff2') format('woff2'),
+        url('../fonts/ProtoMono-LightShadow.woff') format('woff'),
+        url('../fonts/ProtoMono-LightShadow.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-RegularShadow.eot');
+    src: local('../fonts/Proto Mono Regular Shadow'), local('../fonts/ProtoMono-RegularShadow'),
+        url('../fonts/ProtoMono-RegularShadow.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-RegularShadow.woff2') format('woff2'),
+        url('../fonts/ProtoMono-RegularShadow.woff') format('woff'),
+        url('../fonts/ProtoMono-RegularShadow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-Regular.eot');
+    src: local('../fonts/Proto Mono Regular'), local('../fonts/ProtoMono-Regular'),
+        url('../fonts/ProtoMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-Regular.woff2') format('woff2'),
+        url('../fonts/ProtoMono-Regular.woff') format('woff'),
+        url('../fonts/ProtoMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-MediumShadow.eot');
+    src: local('../fonts/Proto Mono Medium Shadow'), local('../fonts/ProtoMono-MediumShadow'),
+        url('../fonts/ProtoMono-MediumShadow.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-MediumShadow.woff2') format('woff2'),
+        url('../fonts/ProtoMono-MediumShadow.woff') format('woff'),
+        url('../fonts/ProtoMono-MediumShadow.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-SemiBold.eot');
+    src: local('../fonts/Proto Mono Semi Bold'), local('../fonts/ProtoMono-SemiBold'),
+        url('../fonts/ProtoMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-SemiBold.woff2') format('woff2'),
+        url('../fonts/ProtoMono-SemiBold.woff') format('woff'),
+        url('../fonts/ProtoMono-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proto Mono';
+    src: url('../fonts/ProtoMono-Medium.eot');
+    src: local('../fonts/Proto Mono Medium'), local('../fonts/ProtoMono-Medium'),
+        url('../fonts/ProtoMono-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProtoMono-Medium.woff2') format('woff2'),
+        url('../fonts/ProtoMono-Medium.woff') format('woff'),
+        url('../fonts/ProtoMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
